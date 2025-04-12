@@ -10,7 +10,7 @@
   </a>
 <br/>
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TFHD&theme=radical&hide_langs_below=8)
+  ![sabartho's GitHub stats](https://github-readme-stats.vercel.app/api?TFHD=anuraghazra&show_icons=true&theme=radical)
 </p>
 
 

@@ -1,12 +1,12 @@
 ## Hey guys
 
 <h1 align="center">I'm 42 school french student</h1>
-
-#My skills :
+<br/>
+<h2>I'm 42 school french student</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,java,js,py,docker,linux,vim,neovim,eclipse,vscode&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,java,js,py,docker,linux,vim,neovim,eclipse,vscode&perline=8"/>
   </a>
 </p>
 

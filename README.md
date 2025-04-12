@@ -2,17 +2,16 @@
 
 <h1 align="center">I'm 42 school french student</h1>
 <br/>
-<h2>I'm 42 school french student</h2>
+<h2>My skills : </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,java,js,py,docker,linux,vim,neovim,eclipse,vscode&perline=8"/>
+    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,java,js,py,docker,linux,vim,neovim,eclipse,vscode&perline=9"/>
   </a>
-</p>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TFHD&theme=radical&hide_langs_below=8)
 <br/>
-![](https://github-readme-stats.vercel.app/api?username=TFHD&show_icons=true&theme=radical&count_private=true)
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TFHD&theme=radical&hide_langs_below=8)
+</p>
 
 
 <!--

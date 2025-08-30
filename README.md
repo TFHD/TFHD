@@ -5,14 +5,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/TFHD">
-    <img src="https://img.shields.io/github/followers/TFHD?label=Follow&style=social" alt="GitHub Followers"/>
-  </a>
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🎓 Student at [42 School](https://42.fr/)

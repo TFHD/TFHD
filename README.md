@@ -9,9 +9,6 @@
   <a href="https://github.com/TFHD">
     <img src="https://img.shields.io/github/followers/TFHD?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
-  <a href="sacha.barthonet@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-email-blue?logo=gmail" alt="Email"/>
-  </a>
 </p>
 
 ---

@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm TFHD 👋</h1>
+<h1 align="center">Hi, I'm Sacha/TFHD 👋</h1>
 <p align="center">
   <b>42 School French Student | Passionate Developer</b>
 </p>
@@ -11,6 +11,8 @@
 - 💻 Coding addict, always learning new things!
 - 🌍 Interested in open source, C/C++, Python, Java, Docker, Linux…
 - 🛠️ Love working with Neovim, VSCode, Eclipse
+
+[![sabartho's 42 stats](https://badge.mediaplus.ma/darkblue/sabartho?1337Badge=off&UM6P=off)](https://github.com/TFHD)
 
 ---
 

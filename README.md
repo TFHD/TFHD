@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sacha/TFHD 👋</h1>
+<h1 align="center">Hi, I'm Sacha 👋</h1>
 <p align="center">
   <b>42 School French Student | Passionate Developer</b>
 </p>

@@ -8,6 +8,7 @@
 ## 🚀 About Me
 
 - 🎓 Student at [42 School](https://42.fr/)
+- ⌨️ Internship at [Polyfact](https://polyfact.com)
 - 💻 Coding addict, always learning new things!
 - 🌍 Interested in open source, C/C++, Python, Java, Docker, Linux…
 - 🛠️ Love working with Neovim, VSCode, Eclipse

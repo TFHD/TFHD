@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,typescript,javascript,python,java,docker,mariadb,linux,bash,git,neovim,vscode&perline=9" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,typescript,javascript,python,java,docker,mariadb,linux,bash,git,neovim,vscode&perline=8" alt="Skills"/>
   </a>
 </p>
 

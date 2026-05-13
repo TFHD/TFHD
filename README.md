@@ -15,7 +15,7 @@
 
 - 🎓 **Student at [42 Angouleme](https://42angouleme.fr/)**
 - ⌨️ **Software Developer Intern** at [Martin & Condrotte](https://www.mc-avocats.lu/) (Luxembourg)
-- 💻 **Code addict** — Specialized in **low-level**, systems, infrastructure, but also **AI**, Data and Web development (pretty versatile overall)
+- 💻 **Code addict** - Specialized in **low-level**, systems, infrastructure, but also **AI**, Data and Web development (pretty versatile overall)
 - 🌍 Open source contributor & 42 School projects
 - 🛠️ Daily driver: **Neovim**, **VSCode / Cursor**, **Eclipse**
 
